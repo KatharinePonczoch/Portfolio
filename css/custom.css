@@ -1,0 +1,8 @@
+#headshot {
+  width: 100px;
+  border-radius: 50%;
+}
+
+.header.filled #headshot {
+  display: none;
+}
